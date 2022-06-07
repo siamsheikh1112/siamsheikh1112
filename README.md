@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Siam Sheikh
 
-![web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 #### web Developer
 
 
